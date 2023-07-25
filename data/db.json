@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "Learn HTML"
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "item": "Learn CSS"
+    }
+  ]
+}
